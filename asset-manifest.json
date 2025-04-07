@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quadgeter/QCloud.git/static/css/main.e6c13ad2.css",
-    "main.js": "/quadgeter/QCloud.git/static/js/main.07c963f8.js",
-    "static/js/453.91f83a82.chunk.js": "/quadgeter/QCloud.git/static/js/453.91f83a82.chunk.js",
-    "index.html": "/quadgeter/QCloud.git/index.html",
-    "main.e6c13ad2.css.map": "/quadgeter/QCloud.git/static/css/main.e6c13ad2.css.map",
-    "main.07c963f8.js.map": "/quadgeter/QCloud.git/static/js/main.07c963f8.js.map",
-    "453.91f83a82.chunk.js.map": "/quadgeter/QCloud.git/static/js/453.91f83a82.chunk.js.map"
+    "main.css": "/quadgeter/QCloud/static/css/main.e6c13ad2.css",
+    "main.js": "/quadgeter/QCloud/static/js/main.10325e7f.js",
+    "static/js/453.91f83a82.chunk.js": "/quadgeter/QCloud/static/js/453.91f83a82.chunk.js",
+    "index.html": "/quadgeter/QCloud/index.html",
+    "main.e6c13ad2.css.map": "/quadgeter/QCloud/static/css/main.e6c13ad2.css.map",
+    "main.10325e7f.js.map": "/quadgeter/QCloud/static/js/main.10325e7f.js.map",
+    "453.91f83a82.chunk.js.map": "/quadgeter/QCloud/static/js/453.91f83a82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.07c963f8.js"
+    "static/js/main.10325e7f.js"
   ]
 }
